@@ -55,6 +55,8 @@ $ {
     ]
   }
 ```
+# Sample React JS UI snapshot is here:
+![React JS User Interface](https://github.com/rbalusup/go-restful-product-search-webapp/blob/master/docs/go-reactjs-product-search.png) 
 
 ## Getting Started
 
