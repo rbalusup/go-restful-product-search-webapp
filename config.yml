@@ -1,0 +1,10 @@
+fileContextPath:
+  productsFile: /data/products.csv
+dynamodb:
+  enableDataSetup: false
+  productsTableName: TargetProduct
+  endpoint: https://dynamodb.us-west-1.amazonaws.com
+aws:
+  region: us-west-1
+  credentials_file_path: ~/.aws/credentials
+  credentials_name: default
